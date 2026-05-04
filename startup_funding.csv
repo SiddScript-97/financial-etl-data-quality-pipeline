@@ -1,0 +1,114 @@
+company_name,sector,city,funding_amount,round,investor,date,country
+CleanFuel,Energy,Kolkata,"$17,562,902.53",Series A,Sequoia Capital,2020-01-05,India
+MedAssist,Healthcare,Delhi,"$1,957,069.76",Seed,Lightspeed Venture,2023-05-01,India
+GreenLeaf Energy,Energy,Chennai,"$33,061,637.21",Series B,Accel Partners,2019-01-15,India
+SoilSense,Agriculture,Pune,"$1,497,712.53",Seed,Nexus Venture Partners,2024-10-13,India
+SkillUp,Education,Hyderabad,"₹7,012,590.75",Series A,HDFC Capital,2019-06-26,India
+GeneTech,Biotechnology,Chennai,73433796.77,Series B,SoftBank Vision Fund,2020-10-19,India
+VidLearn,Education,Delhi,"₹7,241,025.10",Bridge,Matrix Partners,2019-12-23,India
+BrandBoost,Retail,Chennai,"₹171,410,498.45",Series C,Lightspeed Venture,2022-07-15,India
+DataGuard,Cybersecurity,Bangalore,"₹170,339,604.49",Series C,Tiger Global,2022-04-02,India
+TrackIt,Logistics,Ahmedabad,"$246,439,706",Series C,Blume Ventures,2022-12-17,India
+CryptoVault,Finance,Chennai,533415.95,Seed,Sequoia Capital,2024-08-06,India
+FreightX,Logistics,Bangalore,"$1,286,854",Seed,Sequoia Capital,2021-09-28,India
+MedAssist,Healthcare,Mumbai,3042653.0,Series A,Peak XV Partners,2023-06-14,India
+BioGenix,Biotechnology,Ahmedabad,"$622,325.25",Seed,Sequoia Capital,2020-12-14,India
+CleanFuel,Energy,Kolkata,"$17,562,902.53",Series A,Sequoia Capital,2020-01-05,India
+TutorBot,Education,Hyderabad,"$862,599.46",Pre-Series A,Matrix Partners,2019-09-18,India
+TrackIt,Logistics,Pune,186984303.28,Series C,Nexus Venture Partners,2020-05-10,India
+TutorBot,Education,Kolkata,"₹2,497,670.14",Bridge,Kalaari Capital,2024-02-01,India
+ShopEase,Retail,Hyderabad,67038513.21,Series B,SoftBank Vision Fund,2020-02-19,India
+ThermoGen,Energy,Delhi,,Seed,Blume Ventures,2019-04-14,India
+PortEx,Logistics,Gurugram,0,Series A,HDFC Capital,2018-04-21,India
+VidLearn,Education,Noida,215380335.17,Series C,Lightspeed Venture,2021-10-29,India
+LoanFlow,Finance,Gurugram,5202881.3,Bridge,Sequoia Capital,2021-11-23,India
+RetailBot,Retail,Delhi,"₹4,494,618.82",Bridge,Nexus Venture Partners,2019-07-26,India
+SecureNet,Cybersecurity,Ahmedabad,"$7,858,585.68",Bridge,HDFC Capital,2022-10-18,India
+GreenLeaf Energy,Energy,Delhi,67612979.68,Series B,Peak XV Partners,2022-09-28,India
+SolarGrid,Energy,Pune,11138270.14,Series A,Lightspeed Venture,2023-09-11,India
+FinEdge,Finance,Mumbai,"$1,339,463",Seed,SoftBank Vision Fund,2019-02-18,India
+QuickMart,Retail,Delhi,"₹9,568,034.01",Series A,Tata Capital,2024-05-20,India
+DiagnoAI,Healthcare,Hyderabad,"$137,414,606.11",Series C,Sequoia Capital,2020-03-02,India
+IrrigaTech,Agriculture,Chennai,2211714.63,Pre-Series A,Nexus Venture Partners,2022-05-17,India
+DiagnoAI,Healthcare,Pune,132065487.8,Series C,Kalaari Capital,2023-09-18,India
+FinEdge,Finance,Gurugram,"$5,329,638",Bridge,SoftBank Vision Fund,2018-10-12,India
+TechNova,Technology,Hyderabad,"$98,770",Seed,SoftBank Vision Fund,2019-07-26,India
+CellCure,Biotechnology,Ahmedabad,"₹14,930,226.48",Series A,Matrix Partners,2020-09-26,India
+LearnAI,Education,Mumbai,"$23,609,677",Series B,SoftBank Vision Fund,2022-02-22,India
+NurseAI,Healthcare,Delhi,4836806.35,Pre-Series A,Nexus Venture Partners,2019-03-19,India
+HarvestPro,Agriculture,Chennai,"$4,665,088.24",Pre-Series A,Matrix Partners,2018-10-14,India
+NurseAI,Healthcare,Gurugram,"$615,552",Pre-Series A,Lightspeed Venture,2022-03-18,India
+PaySwift,Finance,Mumbai,68165.14,Seed,HDFC Capital,2020-05-23,India
+HealthAI,Healthcare,Gurugram,"$750,009",Seed,Nexus Venture Partners,2018-06-27,India
+CyberShield,Cybersecurity,Delhi,"$1,729,150.67",Seed,Lightspeed Venture,2022-09-26,India
+ShopEase,Retail,Ahmedabad,17740747.17,Series A,HDFC Capital,2019-02-06,India
+VaultSec,Cybersecurity,Bangalore,"₹69,269,209.47",Series B,Peak XV Partners,2024-01-19,India
+PortEx,Logistics,Mumbai,197973193.91,Series C,Lightspeed Venture,2022-10-22,India
+CyberShield,Cybersecurity,Noida,"$29,255,849.35",Series B,Blume Ventures,2019-01-08,India
+PatientIQ,Healthcare,Mumbai,"$2,590,474.48",Pre-Series A,Blume Ventures,2019-07-01,India
+CodeCamp,Education,Pune,"$801,131.10",Seed,Sequoia Capital,2022-11-22,India
+AgriTech India,Agriculture,Hyderabad,14323056.52,Series A,Sequoia Capital,2021-07-16,India
+CellCure,Biotechnology,Ahmedabad,4323819.63,Pre-Series A,Matrix Partners,2024-06-15,India
+FireWall Pro,Cybersecurity,Mumbai,"$5,430,585",Bridge,SoftBank Vision Fund,2021-06-25,India
+CodeCamp,Education,Kolkata,,Series B,Tata Capital,2023-09-26,India
+VidLearn,Education,Mumbai,-826.6055159052739,Seed,Matrix Partners,2022-01-23,India
+LoanFlow,Finance,Mumbai,,Bridge,Peak XV Partners,2021-05-20,India
+PatientIQ,Healthcare,Ahmedabad,,Series C,Tata Capital,2023-08-30,India
+FreightX,Logistics,Bangalore,"$1,286,854",Seed,Sequoia Capital,2021-09-28,India
+BioGenix,Biotechnology,Noida,1376552.65,Seed,Nexus Venture Partners,2021-10-25,India
+AgriTech India,Agriculture,Kolkata,"₹2,713,676.48",Bridge,Nexus Venture Partners,2024-03-31,India
+TeleMed,Healthcare,Kolkata,3175336.19,Pre-Series A,Lightspeed Venture,2024-07-18,India
+HealthAI,Healthcare,Kolkata,4215974.16,Bridge,Accel Partners,2024-03-11,India
+AgriTech India,Agriculture,Gurugram,"$116,935,218.99",Series C,Peak XV Partners,2021-07-12,India
+LogiFlow,Logistics,Gurugram,"$4,929,576",Bridge,Matrix Partners,2024-07-18,India
+BioGenix,Biotechnology,Noida,"₹800,296.26",Seed,Nexus Venture Partners,2024-03-16,India
+FarmLink,Agriculture,Chennai,,Seed,Matrix Partners,2022-08-11,India
+GeneTech,Biotechnology,Delhi,"₹2,986,362.94",Pre-Series A,Sequoia Capital,2021-06-16,India
+PharmaLink,Biotechnology,Bangalore,29574440.77,Series B,Sequoia Capital,2020-10-09,India
+NanoMed,Biotechnology,Delhi,"₹7,967,958.83",Bridge,SoftBank Vision Fund,2021-04-30,India
+DealHub,Retail,Noida,"$3,400,162",Bridge,Blume Ventures,2020-10-25,India
+NanoMed,Biotechnology,Bangalore,"$2,645,548.33",Pre-Series A,HDFC Capital,2018-11-25,India
+WealthBot,Finance,Bangalore,"$12,450,615",Series A,Accel Partners,2024-09-09,India
+HydroGen,Energy,Kolkata,5813356.89,Bridge,SoftBank Vision Fund,2019-12-22,India
+PaySwift,Finance,Hyderabad,"$1,923,664",Pre-Series A,Lightspeed Venture,2021-07-10,India
+CargoNet,Logistics,Mumbai,7994977.28,Bridge,SoftBank Vision Fund,2019-11-13,India
+PortEx,Logistics,Gurugram,0,Series A,HDFC Capital,2018-04-21,India
+LearnAI,Education,Gurugram,"$25,253,544",Series B,Lightspeed Venture,2023-12-07,India
+CryptoVault,Finance,Ahmedabad,"$3,182,014",Bridge,HDFC Capital,2023-01-24,India
+ShopEase,Retail,Delhi,"₹2,518,760.97",Pre-Series A,Nexus Venture Partners,2023-03-10,India
+EduSpark,Education,Gurugram,14063153.14,Series A,Lightspeed Venture,2019-12-02,India
+TechNova,Technology,Noida,"$232,705.72",Seed,Tata Capital,2018-04-19,India
+GeneTech,Biotechnology,Noida,0,Seed,Sequoia Capital,2022-02-21,India
+PatientIQ,Healthcare,Delhi,"₹257,642,292.43",Series C,Peak XV Partners,2023-04-29,India
+CleanFuel,Energy,Gurugram,"₹739,673.34",Seed,Peak XV Partners,2019-09-26,India
+InvestAI,Finance,Hyderabad,"$43,591,718",Series B,Nexus Venture Partners,2021-10-07,India
+BrandBoost,Retail,Ahmedabad,"$3,863,820.51",Pre-Series A,SoftBank Vision Fund,2021-01-22,India
+NurseAI,Healthcare,Chennai,"$10,370,611",Series A,Tiger Global,2024-10-17,India
+LearnAI,Education,Mumbai,"$1,352,333",Seed,Tiger Global,2020-12-19,India
+SkillUp,Education,Mumbai,12591922.06,Series A,Peak XV Partners,2018-08-30,India
+EduSpark,Education,Delhi,"$44,471,669",Series B,Kalaari Capital,2021-12-26,India
+SolarGrid,Energy,Bangalore,"₹1,217,941.94",Seed,Accel Partners,2022-01-26,India
+WealthBot,Finance,Bangalore,,Bridge,Accel Partners,2020-12-05,India
+TechNova,Technology,Gurugram,1717466.23,Bridge,Matrix Partners,2018-05-11,India
+QuickMart,Retail,Pune,55505101.65,Series B,HDFC Capital,2021-06-20,India
+PortEx,Logistics,Bangalore,"$17,603,324.40",Series A,Nexus Venture Partners,2022-04-02,India
+IrrigaTech,Agriculture,Kolkata,"₹65,566,427.65",Series C,Tata Capital,2018-03-22,India
+FireWall Pro,Cybersecurity,Mumbai,"$11,201,131.94",Series A,Nexus Venture Partners,2023-10-13,India
+FarmLink,Agriculture,Mumbai,-420.352794791399,Series C,Sequoia Capital,2022-07-08,India
+VidLearn,Education,Noida,215380335.17,Series C,Lightspeed Venture,2021-10-29,India
+FarmLink,Agriculture,Ahmedabad,"$3,092,952.42",Pre-Series A,Matrix Partners,2020-02-19,India
+WindCore,Energy,Kolkata,"$1,210,318.46",Seed,Accel Partners,2024-05-22,India
+CryptoVault,Finance,Hyderabad,"₹6,771,019.32",Series A,HDFC Capital,2020-04-03,India
+CleanFuel,Energy,Hyderabad,"₹7,471,411.07",Bridge,Nexus Venture Partners,2019-10-15,India
+SolarGrid,Energy,Delhi,"$1,395,099",Pre-Series A,HDFC Capital,2023-12-13,India
+DataGuard,Cybersecurity,Ahmedabad,-2096.874366587862,Seed,Nexus Venture Partners,2022-09-29,India
+DiagnoAI,Healthcare,Ahmedabad,795956.36,Seed,SoftBank Vision Fund,2020-03-28,India
+GreenLeaf Energy,Energy,Hyderabad,"₹14,888,353.03",Series A,Blume Ventures,2024-08-10,India
+NanoMed,Biotechnology,Chennai,19436768.57,Series A,Sequoia Capital,2018-07-25,India
+PaySwift,Finance,Pune,"$6,781,061.23",Series A,Blume Ventures,2021-07-19,India
+InvestAI,Finance,Noida,"$63,865,491",Series B,Blume Ventures,2020-09-06,India
+FireWall Pro,Cybersecurity,Bangalore,,Series A,Sequoia Capital,2020-09-29,India
+QuickMart,Retail,Pune,"₹3,858,750.36",Bridge,HDFC Capital,2019-06-06,India
+GeneTech,Biotechnology,Chennai,73433796.77,Series B,SoftBank Vision Fund,2020-10-19,India
+VaultSec,Cybersecurity,Kolkata,"$10,184,587",Series A,Nexus Venture Partners,2022-09-23,India
+SkillUp,Education,Chennai,3213205.91,Series A,Accel Partners,2023-10-07,India

@@ -1,0 +1,38 @@
+2026-05-04 07:13:24,618  INFO      ============================================================
+2026-05-04 07:13:24,619  INFO        FINANCIAL DATA ETL PIPELINE — START
+2026-05-04 07:13:24,619  INFO      ============================================================
+2026-05-04 07:13:24,619  INFO      ────────────────────────────────────────────────────────────
+2026-05-04 07:13:24,619  INFO      STEP 1 — EXTRACTION
+2026-05-04 07:13:24,619  INFO        Source : /home/claude/financial_etl_pipeline/data/startup_funding.csv
+2026-05-04 07:13:24,624  INFO        Loaded : 113 rows  ×  8 columns
+2026-05-04 07:13:24,624  INFO        Columns: ['company_name', 'sector', 'city', 'funding_amount', 'round', 'investor', 'date', 'country']
+2026-05-04 07:13:24,624  INFO      ────────────────────────────────────────────────────────────
+2026-05-04 07:13:24,625  INFO      STEP 2 — TRANSFORMATION
+2026-05-04 07:13:24,646  INFO        Duplicates removed : 5
+2026-05-04 07:13:24,648  INFO        Null funding rows  : 7
+2026-05-04 07:13:24,649  INFO        Invalid ≤0 removed : 5
+2026-05-04 07:13:24,649  INFO        Rows after clean   : 96  (started: 113)
+2026-05-04 07:13:24,649  INFO      ────────────────────────────────────────────────────────────
+2026-05-04 07:13:24,649  INFO      STEP 3 — DATA QUALITY VALIDATION
+2026-05-04 07:13:24,654  INFO        Records           : 96
+2026-05-04 07:13:24,654  INFO        Duplicates        : 0
+2026-05-04 07:13:24,654  INFO        Invalid funding   : 0
+2026-05-04 07:13:24,654  INFO        Schema OK         : True
+2026-05-04 07:13:24,654  INFO        Quality score     : 100/100  [PASS]
+2026-05-04 07:13:24,654  INFO        Funding range     : $68,165 – $257,642,292
+2026-05-04 07:13:24,655  INFO      ────────────────────────────────────────────────────────────
+2026-05-04 07:13:24,655  INFO      STEP 4 — LOADING
+2026-05-04 07:13:24,655  INFO        Target : /home/claude/financial_etl_pipeline/output/financial_data.db
+2026-05-04 07:13:24,670  INFO        Written: 96 rows → 'companies' table
+2026-05-04 07:13:24,670  INFO      ────────────────────────────────────────────────────────────
+2026-05-04 07:13:24,670  INFO      STEP 5 — ANALYSIS & INSIGHTS
+2026-05-04 07:13:24,672  INFO        sector_funding            → 10 rows
+2026-05-04 07:13:24,674  INFO        top_companies             → 15 rows
+2026-05-04 07:13:24,675  INFO        yearly_trend              → 7 rows
+2026-05-04 07:13:24,676  INFO        round_distribution        → 6 rows
+2026-05-04 07:13:24,677  INFO        top_investors             → 10 rows
+2026-05-04 07:13:24,678  INFO        city_hotspots             → 10 rows
+2026-05-04 07:13:24,682  INFO        Quality report saved → /home/claude/financial_etl_pipeline/output/quality_report.json
+2026-05-04 07:13:24,682  INFO      ────────────────────────────────────────────────────────────
+2026-05-04 07:13:24,682  INFO        Pipeline COMPLETE in 0.06s
+2026-05-04 07:13:24,682  INFO      ============================================================

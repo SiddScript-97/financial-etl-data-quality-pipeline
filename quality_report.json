@@ -1,0 +1,49 @@
+{
+  "run_timestamp": "2026-05-04T07:13:24.649870",
+  "total_records": 96,
+  "missing_values": {
+    "company_name": 0,
+    "sector": 0,
+    "city": 0,
+    "funding_amount": 0,
+    "round": 0,
+    "investor": 0,
+    "date": 0,
+    "country": 0,
+    "year": 0
+  },
+  "duplicates": 0,
+  "invalid_funding": 0,
+  "negative_funding": 0,
+  "zero_funding": 0,
+  "date_nulls": 0,
+  "schema_ok": true,
+  "funding_stats": {
+    "min": 68165.14,
+    "max": 257642292.43,
+    "mean": 30312576.1,
+    "median": 5621970.95
+  },
+  "records_per_sector": {
+    "Healthcare": 13,
+    "Education": 13,
+    "Finance": 12,
+    "Energy": 11,
+    "Biotechnology": 11,
+    "Retail": 10,
+    "Agriculture": 8,
+    "Cybersecurity": 8,
+    "Logistics": 7,
+    "Technology": 3
+  },
+  "records_per_round": {
+    "Series A": 20,
+    "Seed": 19,
+    "Bridge": 18,
+    "Pre-Series A": 15,
+    "Series B": 13,
+    "Series C": 11
+  },
+  "quality_score": 100,
+  "status": "PASS"
+}
